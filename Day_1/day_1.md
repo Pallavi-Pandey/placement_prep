@@ -1,13 +1,13 @@
 1. **What is mutable and immutable? What are Python’s mutable and immutable data types?**  
-- Mutable objects can be changed after they are created, while immutable objects cannot be changed after they are created.
+- Mutable objects can be changed after creation, while immutable objects cannot be changed after creation.
    - **Mutable**: Lists, Sets, Dictionaries.
-   - **Immutable**: Tuples, Strings, Integers, Floats, Booleans.
+   - **Immutable**: Tuples, Strings.
 
 ---
 
 2. **What is the difference between a shallow copy and a deep copy?**  
    - **Shallow copy** copies the top-level object but not nested objects.  
-   - **Deep copy** copies both the top-level object and its nested objects.
+   - **Deep copy** copies the top-level and nested objects.
 
 ---
 
