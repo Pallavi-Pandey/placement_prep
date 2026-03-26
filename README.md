@@ -1,4 +1,4 @@
-# Placement Preparation: Python & Aptitude
+# Placement Coding Prep
 
 A systematic recording of Python programming questions and daily study routines designed for technical placement preparation.
 
